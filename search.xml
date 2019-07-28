@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>单例模式(Singleton Pattern)</title>
+      <link href="/2019/07/28/singleton/"/>
+      <url>/2019/07/28/singleton/</url>
+      
+        <content type="html"><![CDATA[<h2 id="定义"><a href="#定义" class="headerlink" title="定义"></a>定义</h2><p>确保一个类只有一个实例，并且自行实例化并向整个系统提供访问该实例的方法。</p><h2 id="类图"><a href="#类图" class="headerlink" title="类图"></a>类图</h2><img src="img/singleton-1.png">]]></content>
+      
+      
+      <categories>
+          
+          <category> 技术 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 设计模式 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2019/07/20/hello-world/"/>
       <url>/2019/07/20/hello-world/</url>
