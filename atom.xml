@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://elzhao.github.io/"/>
-  <updated>2019-07-28T07:06:58.563Z</updated>
+  <updated>2019-07-28T07:18:24.231Z</updated>
   <id>https://elzhao.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://elzhao.github.io/2019/07/28/singleton/"/>
     <id>https://elzhao.github.io/2019/07/28/singleton/</id>
     <published>2019-07-28T07:04:12.000Z</published>
-    <updated>2019-07-28T07:06:58.563Z</updated>
+    <updated>2019-07-28T07:18:24.231Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="定义"><a href="#定义" class="headerlink" title="定义"></a>定义</h2><p>确保一个类只有一个实例，并且自行实例化并向整个系统提供访问该实例的方法。</p><h2 id="类图"><a href="#类图" class="headerlink" title="类图"></a>类图</h2><p><img src="/.io//singleton-1.png" alt="你想输入的替代文字"></p><p>角色：<br>1、    Client——高层客户端；<br>2、    Singleton——单例类；</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="定义"><a href="#定义" class="headerlink" title="定义"></a>定义</h2><p>确保一个类只有一个实例，并且自行实例化并向整个系统提供访问该实例的方法。</p><h2 id="类图"><a href="#类图" class="headerlink" title="类图"></a>类图</h2><img src="/.io//singleton-1.png"><p>角色：<br>1、    Client——高层客户端；<br>2、    Singleton——单例类；</p>]]></content>
     
     <summary type="html">
     
